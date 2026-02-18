@@ -18,6 +18,8 @@ termux-core/
 │ └── SKILL.md # 通知/Toast/剪贴板/文件分享
 └── README.md # 本安装配置指南
 ```
+![test_screenshot_](https://github.com/user-attachments/assets/dfbf6296-6452-4873-9260-907f049b25c4)
+
 
 ## ⚙️ 安装要求
 
